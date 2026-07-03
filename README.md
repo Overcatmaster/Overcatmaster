@@ -8,10 +8,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning english<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/8dc57e6d-b685-480d-9271-83784cbdbd4d"  /> and Docker🐳
-<br>🎯 Goals: live in a cold place❄ and meet Mount Fuji⛩️ <br>🎲 Fun fact: Sadomasochistic gaming<img width="20" height="20" alt="PraiseSun" src="https://github.com/user-attachments/assets/f5e848c8-7447-4a95-9e19-447118519de3" />
-
-###
+💀死も旅の一部に過ぎない💀
 
 <h2 align="left">I code with</h2>
 
